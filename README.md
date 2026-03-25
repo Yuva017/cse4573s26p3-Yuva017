@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Fqsa7e3B)
 # F25-CSE473-573-A-P3
 
-F25 CSE4/573 Project 3
+S26 CSE4/573 Project 3
 
 **CSE 473/573 Face Detection and Recognition Project.**
 
