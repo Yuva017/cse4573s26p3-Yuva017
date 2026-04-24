@@ -1,0 +1,5 @@
+torch
+face_recognition
+matplotlib
+torchvision
+dlib

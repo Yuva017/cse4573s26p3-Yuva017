@@ -1,4 +1,5 @@
 [![Open in GitHub Classroom](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6kfifRyc)
+
 # S26-CSE473-573-P3
 
 S26 CSE4/573 Project 3
@@ -11,8 +12,8 @@ Please first update below and push your change to this repo.
 
 For the environment, you can use the project 2 setting and install face_recognition. Or use your own, there are no hard requirement about pytorch version.
 
-- Your name   
-- Your ubit name
+- Yuvaraja Mahadevan
+- ymahadev
 
 **task 1 validation set**
 
@@ -37,17 +38,16 @@ python task1.py --input_path test_folder/images --output ./result_task1.json
 python task2.py --input_path faceCluster_5 --num_cluster 5
 ```
 
-
 **Pack your submission**
 Note that when packing your submission, the script would run your code before packing.
 
 ```bash
-sh pack_submission.sh <YourUBITName>
+sh pack_submission.sh ymahadev
 ```
 
-* Note: In the commands, use `python3` if your environment has python named as `python3` instead `python`.
+- Note: In the commands, use `python3` if your environment has python named as `python3` instead `python`.
 
-Change **`<YourUBITName>`** with your UBIT name.
-The resulting zip file should be named **"submission\_`<YourUBITName>`.zip"**, and it should contain the following files: **"result\_task1.json"**, **"result\_task1\_val.json"**,**"result\_task2.json"**,**"face.py"**,**"viz_task1.png"**,**"viz_task2.png"**. If not, there is something wrong with your code/filename, please go back and check.
+Change **ymahadev** with your UBIT name.
+The resulting zip file should be named **"submission_ymahadev.zip"**, and it should contain the following files: **"result_task1.json"**, **"result_task1_val.json"**,**"result_task2.json"**,**"face.py"**,**"viz_task1.png"**,**"viz_task2.png"**. If not, there is something wrong with your code/filename, please go back and check.
 
 You should only submit the zip file.
